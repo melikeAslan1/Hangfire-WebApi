@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ssohXbM9MOk6cqMcNuPTWfogaE12F7+Q+oaLXUxDJPU=",
+  "Source": "hangfire-webapi",
+  "BasePath": "_content/hangfire-webapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
